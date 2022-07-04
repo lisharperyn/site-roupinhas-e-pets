@@ -1,1 +1,2 @@
-Acesso ao site: https://lisharperyn.github.io/roupinhas-e-pets/
+Acesso ao site:
+https://github.com/lisharperyn/site-roupinhas-e-pets.git
